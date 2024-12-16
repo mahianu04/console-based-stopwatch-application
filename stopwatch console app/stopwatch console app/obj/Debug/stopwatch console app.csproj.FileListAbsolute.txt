@@ -1,0 +1,7 @@
+C:\Users\Mahilet\source\repos\stopwatch console app\stopwatch console app\bin\Debug\stopwatch console app.exe.config
+C:\Users\Mahilet\source\repos\stopwatch console app\stopwatch console app\bin\Debug\stopwatch console app.exe
+C:\Users\Mahilet\source\repos\stopwatch console app\stopwatch console app\bin\Debug\stopwatch console app.pdb
+C:\Users\Mahilet\source\repos\stopwatch console app\stopwatch console app\obj\Debug\stopwatch console app.csproj.AssemblyReference.cache
+C:\Users\Mahilet\source\repos\stopwatch console app\stopwatch console app\obj\Debug\stopwatch console app.csproj.CoreCompileInputs.cache
+C:\Users\Mahilet\source\repos\stopwatch console app\stopwatch console app\obj\Debug\stopwatch console app.exe
+C:\Users\Mahilet\source\repos\stopwatch console app\stopwatch console app\obj\Debug\stopwatch console app.pdb
